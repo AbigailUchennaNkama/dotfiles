@@ -70,3 +70,4 @@ export EDITOR=code
 
 # Set ipdb as the default Python debugger
 export PYTHONBREAKPOINT=ipdb.set_trace
+export BROWSER='"/mnt/c/Users/nkama/AppData/Local/Google/Chrome/Application/chrome.exe"'
